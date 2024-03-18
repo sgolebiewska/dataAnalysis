@@ -5,5 +5,5 @@
   - ✔️**data cleaning of NFL data and SF permits:** analysis of shape and size, <br>
     dropping columns and rows, filling missing values using different methods
 * dataCampProjects / [netflix investigation](https://github.com/sgolebiewska/dataAnalysis/blob/main/dataCampProjects/netflixAnalysis.ipynb)
-    -📌**data source:** DataCamp
-    -✔️**tasks:** general analysis of dataset, subsetting and plotting
+    -📌**data source:** DataCamp, <br>
+    -✔️**tasks:** general analysis of dataset, subsetting and plotting <br>
