@@ -4,6 +4,6 @@
     datasets are too big, they can be found [here](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values/notebook)📋
   - ✔️**data cleaning of NFL data and SF permits:** analysis of shape and size, <br>
     dropping columns and rows, filling missing values using different methods
-* dataCampProjects / [netflix investigation](https://github.com/sgolebiewska/dataAnalysis/blob/main/dataCampProjects/netflixAnalysis.ipynb)
-    -📌**data source:** DataCamp, <br>
-    -✔️**tasks:** general analysis of dataset, subsetting and plotting <br>
+* dataCampProjects / [netflix investigation](https://github.com/sgolebiewska/dataAnalysis/blob/main/dataCampProjects/netflixAnalysis.ipynb) <br>
+  - 📌**data source:** DataCamp, <br>
+  - ✔️**tasks:** general analysis of dataset, subsetting and plotting <br>
